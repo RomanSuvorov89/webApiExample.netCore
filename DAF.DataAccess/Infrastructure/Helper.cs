@@ -42,7 +42,7 @@ namespace DAF.DataAccess.Infrastructure
         /// </summary>
         public static string GenerateToken(IEnumerable<Claim> claims, TimeSpan lifeTime)
         {
-            var secretKey = "";
+            var secretKey = "a";
 
             var now = DateTime.Now;
             var token = new JwtSecurityToken(
