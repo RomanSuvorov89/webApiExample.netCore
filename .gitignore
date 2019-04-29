@@ -1,0 +1,16 @@
+
+\.vs/
+
+DAF\.DataAccess/bin/
+
+DAF\.DataAccess/obj/
+
+DAF\.DataAccess/Migrations/
+
+DAF\.Infrastructure/obj/
+
+DAF\.WebApi/bin/
+
+DAF\.WebApi/obj/
+
+Helper/obj/
