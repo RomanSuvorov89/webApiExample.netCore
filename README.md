@@ -1,1 +1,1 @@
-DAF.WebApi
+Example project as Json web api
